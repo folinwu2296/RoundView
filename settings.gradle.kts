@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "RoundViewDemo"
 include(":app")
- 
+include(":RoundViewLib")
